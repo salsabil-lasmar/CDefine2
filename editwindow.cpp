@@ -1,8 +1,8 @@
 #include "editwindow.h"
-#include "ui_editdefine.h"
 #include "cdefinelist.h"
 #include"cdefine.h"
 #include "mainwindow.h"
+#include "ui_editwindow.h"
 #include "ui_mainwindow.h"
 
 #include<QFile>
