@@ -1,7 +1,8 @@
 #include "addwindow.h"
-#include "ui_AddNewDefine.h"
+#include "ui_addwindow.h"
 #include "cdefinelist.h"
 #include"cdefine.h"
+#include "ui_addwindow.h"
 
 
 #include<QFile>
@@ -50,4 +51,3 @@ void AddNewDefine::on_pushButton_clicked()
   parent->loadData();
 
 }
-
